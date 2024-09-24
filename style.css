@@ -1,13 +1,16 @@
  body {
     background-color: rgb(221, 221, 221);
  }
- p{
+ p {
    color: rgb(214, 202, 248);
  }
  h1 {
-   font-style: oblique;
+   font-style: italic;
  }
- .jennie{
+ .jennie {
   color: black;
   font-size: 20px;
+ }
+ .lisa {
+  width: 50%;
  }
