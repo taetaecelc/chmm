@@ -1,5 +1,6 @@
  body {
     background-color: rgb(221, 221, 221);
+    text-align: center;
  }
  p {
    color: rgb(214, 202, 248);
@@ -13,4 +14,5 @@
  }
  .lisa {
   width: 50%;
+  text-align: center;
  }
